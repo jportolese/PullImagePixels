@@ -8,3 +8,7 @@ This project has three parts and is based on a change detection methodology I'm 
 
 
   
+![image](https://github.com/user-attachments/assets/fee1ec90-8f0e-4e5b-a002-72b68a0af21d)
+
+
+
