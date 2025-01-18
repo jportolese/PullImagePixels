@@ -5,4 +5,6 @@ This project has three parts and is based on a change detection methodology I'm 
 - Buildings (polygons) that are smaller than a certain size are identified and an attribute is added to the file to identify buildings that don't meet the threshold and tags them as "outbuildings"
 - The final step takes each footprint and cuts the pixels in the image into a separate image for each footprint for both the before and after imagery.
 - The images are numbers by the ID field of the geojson polygon and stored as before_ID.tif and after_ID.tif in the final output directory
+
+
   
